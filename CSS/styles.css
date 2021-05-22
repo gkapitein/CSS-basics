@@ -1,0 +1,53 @@
+html{
+    background-color: yellow;
+}
+
+body {color:red;}
+
+.head1{ 
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+    padding: 10px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+
+.black-border {
+    border: 5px solid white;
+    background-color: black;
+    color: white;
+    font-family: fantasy;
+    font-size: 40px;
+}
+
+.links{
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 10px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+
+.persoonlijkegegevens{
+    font-family: fantasy;
+    font-size: 30px;
+    color: black;
+}
+
+.profielfoto{
+    border: 5px solid black;
+}
+#green-background{
+    border: 5px solid white;
+    background-color: black;
+    color: white;
+    font-family: fantasy;
+    font-size: 40px;
+}
+
